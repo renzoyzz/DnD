@@ -59,6 +59,7 @@ Mining town that seems to have been built on ruins. Old abandoned manor on the e
 - The Stone Hill Inn - Owned by Tolbin.
 - Barthen's Provisions - Owned by Barthen who we delivered goods to.
 - Lionshield Coster - Owned by Linenons we delivered goods to.
+  - Shopkeeper is scared of the Red Brand.
 
 ### Ruined manor
 
