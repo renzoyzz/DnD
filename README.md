@@ -39,7 +39,7 @@ Mining town that seems to have been built on ruins. Old abandoned manor on the e
 
 ### Ruined manor
 
-- Old manor used as a base for bandits harassing the town.
+- Old manor used as a base for the Red Brand.
 
 ### Townmaster's Hall
 
