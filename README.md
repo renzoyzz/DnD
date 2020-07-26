@@ -1,3 +1,16 @@
+# Quests
+
+- Save Gundren Rockseeker and take back Cragmaw Castle
+  - Issued by Sildar
+  - 500 gold pieces
+- Kill orcs at Wyvern Tor
+  - Issued by Harben Lester
+  - 100 gold pieces.
+- Get rid of Red Brand from the Manor in Phandalin
+  - Optional quest from getting info from the town
+  - Whatever loot the Red Brand has
+  - Town favor?
+
 # Map
 
 ![map](map.png)
@@ -17,6 +30,7 @@
 - Was found in the dungeon with Ethel.
 - Holds a place of honor in the famous griffon cavalry of the great city of Water deep.
 - He is an agent of the Lords' Alliance.
+- Offers 500 gold to get Gundren and take back Cragmaw Castle
 
 ## Harben Lester
 
@@ -54,4 +68,5 @@ Mining town that seems to have been built on ruins. Old abandoned manor on the e
 
 ## Cragmaw Castle
 
+- Search along Triborg Trail and get an informant from ambush to find Cragmaw Castle
 - Golbin castle where Gundren Rockseeker.
