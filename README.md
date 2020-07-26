@@ -1,3 +1,7 @@
+# Map
+
+![map](map.png)
+
 # Characters
 
 ## Gundren Rockseeker
